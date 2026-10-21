@@ -1,0 +1,4 @@
+buds
+*.o
+.DS_Store
+re/
